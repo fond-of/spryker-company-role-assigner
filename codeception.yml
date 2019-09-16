@@ -1,4 +1,4 @@
-namespace: fond-of-spryker/company-role-assigner
+namespace: fond-of-spryker/company-type-user
 
 suites:
   unit:

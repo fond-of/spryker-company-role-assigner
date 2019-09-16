@@ -1,6 +1,6 @@
 {
-  "name": "fond-of-spryker/company-role-assigner",
-  "description": "Company role assigner",
+  "name": "fond-of-spryker/company-type-user",
+  "description": "Company type user",
   "license": "MIT",
   "authors": [
     {
